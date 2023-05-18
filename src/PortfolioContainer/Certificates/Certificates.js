@@ -62,7 +62,7 @@ export default function certificates(props) {
               <div className="col-lg-12">
                 <div className="certi-item">
                   <div className="certi-img">
-                    <img src={html} alt="" srcset="" />
+                    <img src={html} alt=""/>
                   </div>
                 </div>
               </div>
@@ -70,28 +70,28 @@ export default function certificates(props) {
               <div className="col-lg-12">
                 <div className="certi-item">
                   <div className="certi-img">
-                    <img src={css} alt="" srcset="" />
+                    <img src={css} alt=""/>
                   </div>
                 </div>
               </div>
               <div className="col-lg-12">
                 <div className="certi-item">
                   <div className="certi-img">
-                    <img src={java} alt="" srcset="" />
+                    <img src={java} alt=""/>
                   </div>
                 </div>
               </div>
               <div className="col-lg-12">
                 <div className="certi-item">
                   <div className="certi-img">
-                    <img src={symfony} alt="" srcset="" />
+                    <img src={symfony} alt=""/>
                   </div>
                 </div>
               </div>
               <div className="col-lg-12">
                 <div className="certi-item">
                   <div className="certi-img">
-                    <img src={wordpress} alt="" srcset="" />
+                    <img src={wordpress} alt=""/>
                   </div>
                 </div>
               </div>
